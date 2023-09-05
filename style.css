@@ -305,10 +305,10 @@ svg {
 }
 
 
-#topRightFixed {
+#topLeftFixed {
   position: fixed;
   top: 0;
-  right: 0;
+  left: 0;
   padding: 6px;
   color: #fff;
   font-size: 1.4em;
@@ -319,5 +319,3 @@ svg {
   background-color: black;
   color: white;
 }
-
-
